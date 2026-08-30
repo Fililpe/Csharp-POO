@@ -1,0 +1,14 @@
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/bin/Debug/net10.0/Aula2 - Overdose CSharp
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/bin/Debug/net10.0/Aula2 - Overdose CSharp.deps.json
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/bin/Debug/net10.0/Aula2 - Overdose CSharp.runtimeconfig.json
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/bin/Debug/net10.0/Aula2 - Overdose CSharp.dll
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/bin/Debug/net10.0/Aula2 - Overdose CSharp.pdb
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.AssemblyInfoInputs.cache
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.AssemblyInfo.cs
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.csproj.CoreCompileInputs.cache
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.dll
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/refint/Aula2 - Overdose CSharp.dll
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.pdb
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/Aula2 - Overdose CSharp.genruntimeconfig.cache
+/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/Debug/net10.0/ref/Aula2 - Overdose CSharp.dll
