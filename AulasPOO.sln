@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2 - Overdose CSharp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula3", "Aula3\Aula3.csproj", "{427C2647-128B-48A3-B9BF-23994783D353}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 01 - IMC", "Exercicio 01 - IMC\Exercicio 01 - IMC.csproj", "{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{427C2647-128B-48A3-B9BF-23994783D353}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427C2647-128B-48A3-B9BF-23994783D353}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427C2647-128B-48A3-B9BF-23994783D353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
