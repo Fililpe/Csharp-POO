@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/Aula2 - Overdose CSharp.csproj": {}
+    "C:\\Users\\dont leave me alone\\RiderProjects\\Csharp-POO\\Aula2 - Overdose CSharp\\Aula2 - Overdose CSharp.csproj": {}
   },
   "projects": {
-    "/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/Aula2 - Overdose CSharp.csproj": {
+    "C:\\Users\\dont leave me alone\\RiderProjects\\Csharp-POO\\Aula2 - Overdose CSharp\\Aula2 - Overdose CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/Aula2 - Overdose CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\dont leave me alone\\RiderProjects\\Csharp-POO\\Aula2 - Overdose CSharp\\Aula2 - Overdose CSharp.csproj",
         "projectName": "Aula2 - Overdose CSharp",
-        "projectPath": "/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/Aula2 - Overdose CSharp.csproj",
-        "packagesPath": "/home/flp/.nuget/packages/",
-        "outputPath": "/home/flp/Desktop/csharp/AulasPOO/Aula2 - Overdose CSharp/obj/",
+        "projectPath": "C:\\Users\\dont leave me alone\\RiderProjects\\Csharp-POO\\Aula2 - Overdose CSharp\\Aula2 - Overdose CSharp.csproj",
+        "packagesPath": "C:\\Users\\dont leave me alone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dont leave me alone\\RiderProjects\\Csharp-POO\\Aula2 - Overdose CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/flp/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dont leave me alone\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
