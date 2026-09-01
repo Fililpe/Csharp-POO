@@ -8,6 +8,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula3", "Aula3\Aula3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 01 - IMC", "Exercicio 01 - IMC\Exercicio 01 - IMC.csproj", "{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 02 - impares-positivos-menores-que-n", "Exercicio 02 - impares-positivos-menores-que-n\Exercicio 02 - impares-positivos-menores-que-n.csproj", "{C3496A43-5B75-4F40-BCEA-5008C6BC564D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 03 - Contar-letras-a", "Exercicio 03 - Contar-letras-a\Exercicio 03 - Contar-letras-a.csproj", "{932A02BD-970F-4F11-93C0-F2BF72B2C787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 04 - Array-de-10-strings-reach--for-invertido", "Exercicio 04 - Array-de-10-strings-reach--for-invertido\Exercicio 04 - Array-de-10-strings-reach--for-invertido.csproj", "{9CE6E8AD-90CF-4E14-B337-3CEB7569BEE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF5E313D-DF10-42FC-8D65-459D1B5C3AF9}"
+	ProjectSection(SolutionItems) = preProject
+		SingleFileApp1.cs = SingleFileApp1.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +41,17 @@ Global
 		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1FD140C-0EB6-4525-BF66-1A16A083AEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3496A43-5B75-4F40-BCEA-5008C6BC564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3496A43-5B75-4F40-BCEA-5008C6BC564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3496A43-5B75-4F40-BCEA-5008C6BC564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3496A43-5B75-4F40-BCEA-5008C6BC564D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932A02BD-970F-4F11-93C0-F2BF72B2C787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A02BD-970F-4F11-93C0-F2BF72B2C787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A02BD-970F-4F11-93C0-F2BF72B2C787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A02BD-970F-4F11-93C0-F2BF72B2C787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE6E8AD-90CF-4E14-B337-3CEB7569BEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE6E8AD-90CF-4E14-B337-3CEB7569BEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE6E8AD-90CF-4E14-B337-3CEB7569BEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE6E8AD-90CF-4E14-B337-3CEB7569BEE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
