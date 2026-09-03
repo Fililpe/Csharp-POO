@@ -480,3 +480,9 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# .NET Core / C# temporários
+bin/
+obj/
+*.user
+*.suo
